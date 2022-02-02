@@ -8,9 +8,9 @@ When a user searches for a country, this app will fetch data from an API and dis
 ![app demo](Assets/country.gif)
 
 
-## ✨ What Have I Learned
+## ✨ What I Have Learned
 
-This is a code-along project to assist me in learning asynchronous JavaScript, APIs, promises, and AJAX. Throughout the project, I gained a good understanding of JSON, XMLHttpRequest, fetch API, and how the requests and responses between servers work behind the scenes.
+This is a code-along project to assist me in learning asynchronous JavaScript, APIs, Promises, and AJAX. Throughout the project, I learned how to retrieve data from an API using XMLHttpRequest() and fetch() methods and how these methods differ from each other, which helps me to grasp a good understanding of Promise handlers and chaining, JSON parsing, and how the requests and responses between servers work behind the scenes.
 
 
 ## 👏 Credits
